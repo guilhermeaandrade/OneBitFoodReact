@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react';
 import { Box, Column, Title } from "rbx";
-import WaitingImage from '../../assets/images/health-icons-organic-icon.png';
+import WaitingImage from '../../assets/images/health-icons-orgainic-icon.png';
 import "../../styles/show_order.scss";
 
 import { connect } from 'react-redux';
